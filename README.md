@@ -1,2 +1,2 @@
-# Precurso-Henry
-Este es un repositorio de prueba del modulo 2 de Soy Henry
+CArlos Diaz
+Este es un ejemplo de como crear un repositrio y clonarlo de github a mi escritorio
